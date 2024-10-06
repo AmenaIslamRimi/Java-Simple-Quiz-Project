@@ -1,0 +1,243 @@
+[
+  {
+    "answerKey": "option 1",
+    "question": "What does SQA stand for?",
+    "option3": "Service Quality Assurance",
+    "option4": "Standard Quality Assurance",
+    "option1": "Software Quality Assurance",
+    "option2": "System Quality Assurance"
+  },
+  {
+    "answerKey": "option 3",
+    "question": "Which of the following is NOT a type of software testing?",
+    "option3": "Exponential Testing",
+    "option4": "System Testing",
+    "option1": "Unit Testing",
+    "option2": "Integration Testing"
+  },
+  {
+      "answerKey": "option 2",
+      "question": "What is the primary purpose of regression testing?",
+      "option1": "To test individual units of code",
+      "option2": "To ensure that changes in the codebase do not affect existing functionality",
+      "option3": "To test the software under real-time conditions",
+      "option4": "To test non-functional requirements"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "Which of the following tools is commonly used for automation testing?",
+      "option1": "Jira",
+      "option2": "Selenium",
+      "option3": "Trello",
+      "option4": "Slack"
+    },
+    {
+      "answerKey": "option 3",
+      "question": "What type of testing is performed without any planning or documentation?",
+      "option1": "Regression Testing",
+      "option2": "Functional Testing",
+      "option3": "Exploratory Testing",
+      "option4": "User Acceptance Testing"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "What is the main objective of performance testing?",
+      "option1": "To ensure software meets business requirements",
+      "option2": "To verify the system’s speed, scalability, and stability",
+      "option3": "To test code structure",
+      "option4": "To check UI/UX quality"
+    },
+    {
+      "answerKey": "option 3",
+      "question": "In Agile methodology, what is the role of an SQA engineer?",
+      "option1": "To write code",
+      "option2": "To manage user stories",
+      "option3": "To ensure the quality of the product throughout the development process",
+      "option4": "To handle customer support"
+    },
+    {
+      "answerKey": "option 4",
+      "question": "Which one is NOT a type of non-functional testing?",
+      "option1": "Load Testing",
+      "option2": "Usability Testing",
+      "option3": "Security Testing",
+      "option4": "Unit Testing"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "What does API testing involve?",
+      "option1": "Testing user interfaces",
+      "option2": "Testing application programming interfaces to ensure they work as expected",
+      "option3": "Testing network latency",
+      "option4": "Testing system installation"
+    },
+    {
+      "answerKey": "option 3",
+      "question": "Which phase comes after the 'Testing' phase in the SDLC?",
+      "option1": "Planning",
+      "option2": "Design",
+      "option3": "Deployment",
+      "option4": "Maintenance"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "What is boundary value analysis?",
+      "option1": "A testing technique to identify broken boundaries in code",
+      "option2": "A technique to test at the extreme boundaries of input values",
+      "option3": "Testing the middle range of input values",
+      "option4": "A method for testing loops in code"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "Which testing type is performed first during SDLC?",
+      "option1": "System Testing",
+      "option2": "Unit Testing",
+      "option3": "Integration Testing",
+      "option4": "User Acceptance Testing"
+    },
+    {
+      "answerKey": "option 1",
+      "question": "What is a test case?",
+      "option1": "A detailed document that describes a particular test scenario",
+      "option2": "A type of testing tool",
+      "option3": "A bug-tracking software",
+      "option4": "A project management methodology"
+    },
+    {
+      "answerKey": "option 3",
+      "question": "Which of the following is a type of white-box testing?",
+      "option1": "Boundary Value Analysis",
+      "option2": "Decision Table Testing",
+      "option3": "Statement Coverage Testing",
+      "option4": "Exploratory Testing"
+    },
+    {
+      "answerKey": "option 1",
+      "question": "Which tool is commonly used for performance testing?",
+      "option1": "JMeter",
+      "option2": "Postman",
+      "option3": "Jira",
+      "option4": "Selenium"
+    },
+    {
+      "answerKey": "option 4",
+      "question": "Which of the following is NOT a part of the test automation framework?",
+      "option1": "Test Data",
+      "option2": "Test Environment",
+      "option3": "Test Scripts",
+      "option4": "Business Requirements"
+    },
+    {
+      "answerKey": "option 1",
+      "question": "In black-box testing, what do testers NOT require?",
+      "option1": "Knowledge of the internal code structure",
+      "option2": "Test data",
+      "option3": "User requirements",
+      "option4": "Functional specifications"
+    },
+    {
+      "answerKey": "option 1",
+      "question": "What is a bug lifecycle?",
+      "option1": "The stages a bug goes through from detection to closure",
+      "option2": "The time it takes to detect a bug",
+      "option3": "The method used to write test cases",
+      "option4": "The software development cycle"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "What is the purpose of smoke testing?",
+      "option1": "To perform exhaustive testing",
+      "option2": "To check if the build is stable for further testing",
+      "option3": "To test for security vulnerabilities",
+      "option4": "To validate user interface elements"
+    },
+    {
+      "answerKey": "option 1",
+      "question": "What is a test plan?",
+      "option1": "A strategy document that outlines the testing approach",
+      "option2": "A document that tracks bugs",
+      "option3": "A diagram of the system architecture",
+      "option4": "A detailed step-by-step guide for installing software"
+    },
+    {
+      "answerKey": "option 3",
+      "question": "Which of the following is a dynamic testing technique?",
+      "option1": "Code Inspection",
+      "option2": "Code Review",
+      "option3": "Functional Testing",
+      "option4": "Requirement Analysis"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "Which technique is used to test the application under extreme conditions?",
+      "option1": "Load Testing",
+      "option2": "Stress Testing",
+      "option3": "System Testing",
+      "option4": "Unit Testing"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "Which document defines the entry and exit criteria for testing?",
+      "option1": "Test Case",
+      "option2": "Test Plan",
+      "option3": "Test Strategy",
+      "option4": "User Manual"
+    },
+    {
+      "answerKey": "option 1",
+      "question": "What is the purpose of acceptance testing?",
+      "option1": "To ensure the system meets business needs",
+      "option2": "To identify bugs early in development",
+      "option3": "To test integration between modules",
+      "option4": "To automate test cases"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "What does continuous integration (CI) involve?",
+      "option1": "Deploying software without manual intervention",
+      "option2": "Frequently merging code changes into a shared repository",
+      "option3": "Testing without using any test cases",
+      "option4": "Ensuring software meets industry standards"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "Which of the following is true about defect severity?",
+      "option1": "It indicates how urgent the bug is to fix",
+      "option2": "It indicates the impact of the bug on the application",
+      "option3": "It indicates the person responsible for fixing the bug",
+      "option4": "It indicates how long the bug has been open"
+    },
+    {
+      "answerKey": "option 2",
+      "question": "Which model emphasizes testing after each increment?",
+      "option1": "Waterfall",
+      "option2": "Agile",
+      "option3": "V-Model",
+      "option4": "Spiral Model"
+    },
+    {
+      "answerKey": "option 1",
+      "question": "What is meant by end-to-end testing?",
+      "option1": "Testing a system's complete flow from start to finish",
+      "option2": "Testing individual units of a system",
+      "option3": "Testing integration between two modules",
+      "option4": "Testing non-functional requirements"
+    },
+    {
+      "answerKey": "option 1",
+      "question": "What does code coverage measure?",
+      "option1": "The number of lines of code executed during testing",
+      "option2": "The number of bugs found",
+      "option3": "The number of test cases passed",
+      "option4": "The performance of the code under test"
+    },
+    {
+      "answerKey": "option 4",
+      "question": "Which of the following is NOT a functional testing technique?",
+      "option1": "Boundary Value Analysis",
+      "option2": "Equivalence Partitioning",
+      "option3": "Decision Table Testing",
+      "option4": "Load Testing"
+    }
+
+]
