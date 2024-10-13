@@ -12,7 +12,7 @@ Before running the application, ensure you have the following installed on your 
 ## How to Run
 1. **Clone the repository**:
    - git clone ``` https://github.com/AmenaIslamRimi/Java-Simple-Quiz-Project.git```
-   - cd Simple_Quiz_Project_Java
+   - cd Java-Simple-Quiz-Project
 2. **Run the app**
    - compile and run
      - javac Quiz.java
